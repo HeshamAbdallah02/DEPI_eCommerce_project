@@ -43,7 +43,7 @@ Welcome to TechXpress, our sleek and powerful ASP.NET Core MVC e-commerce projec
 Meet the brilliant minds behind Electro:
 
 - Abdulrahman Ali Muhammad
-- Hisham Muhammad Abdullah
+- Hesham Abdallah Mohammed
 - Ali Reda
 - Ahmed El-sharabasy
 - Mustafa El-banna
